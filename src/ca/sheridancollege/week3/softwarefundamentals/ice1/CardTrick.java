@@ -14,6 +14,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1;
  * @modified by Saniya Hussain
  *
  */
+
 import java.util.Random;
 import java.util.Scanner;
 public class CardTrick
@@ -92,6 +93,8 @@ public class CardTrick
       else {
          System.out.println("Magic Hand does not contain your chosen card");
          System.out.println("Name: Saniya Hussain  StudentID: HUSSSANI  ClassCode:  SYST78334");
+
+         //I AM DONE!!
       }
 
    }
