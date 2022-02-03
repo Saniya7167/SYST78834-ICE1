@@ -87,9 +87,11 @@ public class CardTrick
 
       if (ifExist == true) {
          System.out.println("Magic Hand contains your chosen card");
+         System.out.println("Name: Saniya Hussain  StudentID: HUSSSANI  ClassCode:  SYST78334");
       }
       else {
          System.out.println("Magic Hand does not contain your chosen card");
+         System.out.println("Name: Saniya Hussain  StudentID: HUSSSANI  ClassCode:  SYST78334");
       }
 
    }
